@@ -1,0 +1,1 @@
+This is an implementation of a framework which provides a dynamic infrastructure for developing knowledge based recommender systems which can also support recommendations in cross-domains.It enables to add new domains easily and collects domain knowledge in order to provide better recommendations.
